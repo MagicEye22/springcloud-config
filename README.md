@@ -1,2 +1,2 @@
 # springcloud-config
-springcloud 2020 的config 配置中心 demo
+springcloud 2020 学习 的config 配置中心 demo
